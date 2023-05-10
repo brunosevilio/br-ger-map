@@ -1,0 +1,4 @@
+ANEEL BDGD Manual ( https://dadosabertos-aneel.opendata.arcgis.com/documents/f0d5c43ac67d4f5eb2ddffa4589501b2/explore )
+ANEEL BDGD ( https://dadosabertos-aneel.opendata.arcgis.com/ )
+OSM data
+Ministério da Infraestrutura Maps ( https://www.gov.br/infraestrutura/pt-br/assuntos/dados-de-transportes/bit/bit-mapas )
